@@ -1,3 +1,3 @@
-"hello world"
+puts "hello world"
 
-hello_world
+p hello_world = 25
